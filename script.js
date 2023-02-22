@@ -1,1 +1,1 @@
-document.alert("hello")
+document.alert("hello world")
